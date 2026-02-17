@@ -1,0 +1,7 @@
+id = "gruvbox-ish-theme"
+name = "Gruvbox-ish Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Kuro7s"]
+description = "Gruvbox but with cooler background. This is basically Vim's Retrobox theme."
+repository = "https://github.com/your-name/my-zed-extension"
